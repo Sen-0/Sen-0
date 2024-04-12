@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Sen-0
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Software engineering
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: i like learning languages as a pastime
+- 👀 I’m interested in coding(help)
+- 🌱 I’m currently learning Software engineering(help)
+- 💞️ I’m looking to collaborate on head to head
+- 📫 How to reach me - You can follow me, i can be seen in dark allyways
+- 😄 Pronouns: He/lp
+- ⚡ Fun fact: i like learning languages as a pastime(i dont) 
 
 <!---
 Sen-0/Sen-0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
