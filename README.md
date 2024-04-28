@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding(help)
 - 🌱 I’m currently learning Software engineering(help)
 - 💞️ I’m looking to collaborate on head to head
-- 📫 How to reach me - You can follow me, i can be seen in dark allyways
+- 📫 How to reach me - You can follow me irl or check under your bed
 - 😄 Pronouns: He/lp/me
 - ⚡ Fun fact: i like learning languages as a pastime(i don't) 
 
